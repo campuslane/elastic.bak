@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/elastic":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/elastic","hostpath":"/Users/frankmatull/Sites/elastic","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/frankmatull/Sites/elastic","disabled":false}}}
